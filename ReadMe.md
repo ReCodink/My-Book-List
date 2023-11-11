@@ -108,8 +108,6 @@ Sebelum dapat menjalankan aplikasi, pastikan telah memenuhi persyaratan berikut:
   
   </br>
   
-  ![createmovie](./public/img/newmovies.jpeg)
-  
   </br>
   
   kemudian beberapa demo programnya :
