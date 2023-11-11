@@ -60,7 +60,7 @@ Sebelum dapat menjalankan aplikasi, pastikan telah memenuhi persyaratan berikut:
 
     Maka akan muncul seperti berikut:
 
-  ![home-page](./public/home-page.png)
+![home-page](./public/home-page.png)
   
 
 2. (Optional) Jika ingin melakukan Dokumentasi API pada postman, dapat menggunakan endpoint:
