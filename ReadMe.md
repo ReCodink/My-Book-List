@@ -5,7 +5,7 @@ Nama : Muhammad Raihan (FSWD 5A)
 Program ini merupakan projek React Router Aplikasi Book List. Pada program ini ada beberapa endpoint utama yang digunakan untuk menjalan program yaitu sebagai berikut:
 
 Untuk akses My Book List :
-- All Data : `http://localhost:5173`
+- Route My Book List : `http://localhost:5173`
 
 
 ## Persyaratan
@@ -40,7 +40,7 @@ Sebelum dapat menjalankan aplikasi, pastikan telah memenuhi persyaratan berikut:
 5. Setelah selesai, buat terminal baru kedua untuk frontend (dapat dengan klik Tombol Tambah (+) yang ada di samping kanan terminal), ketika dibuat akan mengarahkan kembali ke direktori projek
     
     ```bash
-    My-Book-List$
+    ~My-Book-List$ ("In Linux") || MINGW64 /My-Book-List (answer) $ ("In Windows")
 
 6. Setelah selesai, pindah ke direktori frontend
 
